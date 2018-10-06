@@ -1,0 +1,90 @@
+{
+  "accounts": [
+    {
+      "name": "Nalaka",
+      "email": "nd@mit.edu",
+      "balance": 0,
+      "password": "1234",
+      "transactions": []
+    },
+    {
+      "name": "Nalak1a",
+      "email": "ndc@mit.edu",
+      "balance": 0,
+      "password": "123",
+      "transactions": []
+    },
+    {
+      "name": "Nalaka2",
+      "email": "n2@mit.edu",
+      "balance": 310,
+      "password": "123",
+      "transactions": [
+        {
+          "Time": "2018-10-05T06:27:46.225Z",
+          "Action": "Deposit",
+          "Amount": "100",
+          "Description": "Deposited $100"
+        },
+        {
+          "Time": "2018-10-05T06:28:23.727Z",
+          "Action": "Deposit",
+          "Amount": "110",
+          "Description": "Deposited $110"
+        },
+        {
+          "Time": "2018-10-05T06:55:31.057Z",
+          "Action": "Deposit",
+          "Amount": "100",
+          "Description": "Deposited $100"
+        }
+      ]
+    },
+    {
+      "name": "Nalak",
+      "email": "n3@mit.edu",
+      "balance": 0,
+      "password": "123",
+      "transactions": []
+    },
+    {
+      "name": "223",
+      "email": "n4@mit.edu",
+      "balance": 0,
+      "password": "123",
+      "transactions": []
+    },
+    {
+      "name": "Nalaka5",
+      "email": "n5@mit.edu",
+      "balance": 4100,
+      "password": "123",
+      "transactions": [
+        {
+          "Time": "2018-10-05T15:51:16.839Z",
+          "Action": "Deposit",
+          "Amount": "10000",
+          "Description": "Deposited $10000"
+        },
+        {
+          "Time": "2018-10-05T15:51:22.864Z",
+          "Action": "Deposit",
+          "Amount": "100",
+          "Description": "Deposited $100"
+        },
+        {
+          "Time": "2018-10-05T15:51:36.234Z",
+          "Action": "Withdraw",
+          "Amount": "3000",
+          "Description": "Withdrew $3000"
+        },
+        {
+          "Time": "2018-10-05T15:52:27.169Z",
+          "Action": "Withdraw",
+          "Amount": "3000",
+          "Description": "Withdrew $3000"
+        }
+      ]
+    }
+  ]
+}
